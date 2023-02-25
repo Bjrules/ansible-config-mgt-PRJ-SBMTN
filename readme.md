@@ -1,4 +1,5 @@
 ##### This is for Project 11 Jenkins-ansible webhook test 
+<<<<<<< HEAD
 ##### using Bastion server on which Ansible and Jenkins is installed to Automate the installation of wireshark on NFS-SERVER, WEBSERVERS, DATABASE SERVERS, and LOAD BALANCING SERVER then Jenkins will later build the artifacts with the help of github webhooks.
 ### NB Bastion server connects to the Hosts using SSH-AGENT with their private IPs
 ### interestingly, this is BANJO BABADE's Project 11 at Darey.io DevOps learning platform
@@ -75,3 +76,11 @@
 
 
 
+=======
+##### its okay and I hope thats fine.
+#### Testing Git with VScode
+#### ansible creating artifacts in jenkins is a great Idea ........Ansible dropin artifacts builds into Jenkins fron github via PRJ11
+
+
+#### refactoring......
+>>>>>>> f911acacfff8cdb5058808a2ed84d99a3561d06a
